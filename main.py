@@ -1,4 +1,6 @@
 import searchInsert
+import firstBadVersion
 
 if __name__ == '__main__':
-    searchInsert.test()
+    # searchInsert.test()
+    firstBadVersion.test()
